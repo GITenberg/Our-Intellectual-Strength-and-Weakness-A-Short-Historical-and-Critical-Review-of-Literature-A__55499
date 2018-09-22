@@ -1,5 +1,8 @@
 _repo: Our-Intellectual-Strength-and-Weakness-A-Short-Historical-and-Critical-Review-of-Literature-A__55499
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55499-h/images/cover.jpg
 creator:
   author:
     agent_name: Bourinot, John George
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2056
     wikipedia: http://en.wikipedia.org/wiki/John_George_Bourinot_(younger)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55499#Our-Intellectual-Strength-and-Weakness-A-Short-Historical-and-Critical-Review-of-Literature-A_
 gutenberg_issued: '2017-09-07'
 gutenberg_type: Text
 identifiers:
